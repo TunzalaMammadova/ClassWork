@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{BBC66ACB-176B-4773-8B7A-1F19D657F12F}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.ClassWork FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ClassWork/Program.cs">
+    <Files>
+      <File FileName="ClassWork/Program.cs" Line="163" Column="1" />
+      <File FileName="ClassWork/Employee.cs" />
+      <File FileName="ClassWork/CustomMath.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ClassWork" expanded="True">
+            <Node name="ClassWork">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
